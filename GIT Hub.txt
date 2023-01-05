@@ -19,3 +19,6 @@ git push -u origin main
 
 
 Next topic is branch and master.
+
+
+Adding some points in the git hub notes.
