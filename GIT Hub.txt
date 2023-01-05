@@ -16,3 +16,6 @@ push an existing repository from the command line:
 git remote add origin https://github.com/vijai19/LearningGIT.git
 git branch -M main
 git push -u origin main
+
+
+Next topic is branch and master.
